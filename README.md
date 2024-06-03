@@ -36,4 +36,4 @@ Em "Eco-Aventura", os jogadores assumem o papel de uma ágil raposa vermelha num
 
 ## Tópico 3: Vídeo - Trailer
 
-[link][videopromocional]([https://youtu.be/g95YfS06CsY](https://youtu.be/dfLRAo9nxYc))
+[link][videopromocional](https://youtu.be/dfLRAo9nxYc)
