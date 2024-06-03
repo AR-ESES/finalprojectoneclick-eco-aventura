@@ -23,6 +23,7 @@ Em "Eco-Aventura", os jogadores assumem o papel de uma ágil raposa vermelha num
 
 
 - Background
+
 ![background](fundodojogo1.png) 
 ![background](fundodojogo2.png)
 
