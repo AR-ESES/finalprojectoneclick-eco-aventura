@@ -15,45 +15,23 @@ Em "Eco-Aventura", os jogadores assumem o papel de uma ágil raposa vermelha num
 
 3. Layouts 
 - Personagem Principal
-![char](personagem.png)
+![char](raposa.png)
 
 - Obstáculos
-![obstaculo_machado](machado.png)
-![obstaculo_motoserra](motoserra.png)
+![obstaculo_folhas](folhas1.png)
+![obstaculo_folhas](folhas2.png)
 
 - Background
-![background](fundo.png) 
+![background](fundodojogo1.png) 
+![background](fundodojogo2.png)
 
-- Elementos foreground
-![arbustos](arbustos.png)  
 
 ## Tópico 2: Design de Comunicação	
 
 1. Identidade gráfica:
 - Logotipo
-![logotipo](logotipo.png)
-
-2. Aplicabilidade da marca:
-- T-shirt 
-![merch_t-shirt](t-shirt_char.jpg)
-
-- Hoodie
-![merch_hoodie](hoodie.jpg)
-
-- Cap´s
-![merch_capmachado](cap_machado.jpg)
-![merch_capmotoserra](cap_motoserra.jpg)
-
-- Brindes - Porta-chaves
-![merch_portachaves](porta-chaves.jpg)
-
-- Brindes - Tapete de rato
-![merch_tapeterato](tapete_rato.jpg)
+![logotipo](logo.jpg)
 
 ## Tópico 3: Vídeo - Trailer
 
-[videopromocional](https://youtu.be/g95YfS06CsY)
-
-## Tópico 4: Jogo
-
-[jogo](https://ar-eses.github.io/finalprojectoneclick-earth-keeper/)
+[videopromocional]([https://youtu.be/g95YfS06CsY](https://youtu.be/dfLRAo9nxYc))
