@@ -10,13 +10,16 @@ Em "Eco-Aventura", os jogadores assumem o papel de uma ágil raposa vermelha num
 
 ## Tópico 1: Conjunto de layouts
 
-1. Layouts 
+1. Layouts
+   
 - Personagem Principal
 ![char](raposa.png)
+
 
 - Obstáculos
 ![obstaculo_folhas](folhas1.png)
 ![obstaculo_folhas](folhas2.png)
+
 
 - Background
 ![background](fundodojogo1.png) 
